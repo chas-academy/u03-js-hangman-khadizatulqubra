@@ -1,6 +1,6 @@
 // Globala variabler
 
-const wordList;      // Array: med spelets alla ord
+let wordList;      // Array: med spelets alla ord
 let selectedWord;    // Sträng: ett av orden valt av en slumpgenerator från arrayen ovan
 
 let guesses = 0;     // Number: håller antalet gissningar som gjorts
